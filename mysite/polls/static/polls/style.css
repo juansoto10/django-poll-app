@@ -1,0 +1,8 @@
+body {
+    background: black url("images/background.jpeg") no-repeat;
+}
+li a {
+    color: #094737;
+    font-size: 18px;
+    margin 10px;
+}
